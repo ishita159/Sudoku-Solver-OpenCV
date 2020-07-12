@@ -1,4 +1,4 @@
-# Sudoku-py
+# Sudoku Solver
 
 An augmented reality sudoku solver using OpenCV.
 
