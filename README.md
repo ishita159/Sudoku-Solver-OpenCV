@@ -25,9 +25,7 @@ arguments:
 
 ![Output_Image](https://github.com/AliShazly/sudoku-py/blob/master/assets/c6_solved.jpg)
 
->python main.py --webcam
 
-![Output_Gif](https://github.com/AliShazly/sudoku-py/blob/master/assets/v1.gif)
 
 ## Breakdown
 
